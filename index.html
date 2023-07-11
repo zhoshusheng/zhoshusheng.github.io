@@ -188,7 +188,7 @@
       <div class="banner-text text-center fade-in-up">
         <div class="h2">
           
-            <span id="subtitle" data-typed-text="An elegant Material-Design theme for Hexo"></span>
+            <span id="subtitle" data-typed-text=""></span>
           
         </div>
 
@@ -219,39 +219,6 @@
               <div class="col-12 col-md-10 m-auto">
                 
 
-
-  <div class="row mx-auto index-card">
-    
-    
-    <article class="col-12 col-md-12 mx-auto index-info">
-      <h1 class="index-header">
-        
-        <a href="/2023/04/08/yourtitle/" target="_self">
-          yourtitle
-        </a>
-      </h1>
-
-      
-      <a class="index-excerpt index-excerpt__noimg" href="/2023/04/08/yourtitle/" target="_self">
-        <div>
-          
-        </div>
-      </a>
-
-      <div class="index-btm post-metas">
-        
-          <div class="post-meta mr-3">
-            <i class="iconfont icon-date"></i>
-            <time datetime="2023-04-08 11:13" pubdate>
-              2023-04-08
-            </time>
-          </div>
-        
-        
-        
-      </div>
-    </article>
-  </div>
 
   <div class="row mx-auto index-card">
     
@@ -300,7 +267,7 @@
       
       <a class="index-excerpt index-excerpt__noimg" href="/2022/03/27/%E7%A5%9E%E7%A7%98%E7%9A%84%E7%94%B5%E5%AD%90%E4%B9%A6%E4%B8%8B%E8%BD%BD%E7%BD%91%E7%AB%99/" target="_self">
         <div>
-          这个电子书网站藏得有点深。 未登录的情况下，可搜索，不可下载。 然后呢，注册渠道被官方给屏蔽了。 打开注册链接：elib.cc/register 注册方法： 请使用注册邮箱发送主题为 signup 的邮件到 &#97;&#117;&#116;&#104;&#64;&#x65;&#108;&#105;&#x62;&#x2e;&#x63;&#99; 。 邮件发送成功之后，会收到对方发过来的登陆账号和密
+          这个电子书网站藏得有点深。 未登录的情况下，可搜索，不可下载。 然后呢，注册渠道被官方给屏蔽了。 打开注册链接：elib.cc/register 注册方法： 请使用注册邮箱发送主题为 signup 的邮件到 &#x61;&#x75;&#116;&#x68;&#64;&#x65;&#108;&#x69;&#x62;&#x2e;&#x63;&#x63; 。 邮件发送成功之后，会收到对方发过来的登陆账号
         </div>
       </a>
 
@@ -464,7 +431,37 @@
       }
       var text = subtitle.getAttribute('data-typed-text');
       
-        typing(text);
+        jQuery.ajax({
+          type: 'GET',
+          url: 'https://v1.hitokoto.cn/',
+          headers: {},
+          dataType: 'json',
+          success: function(result) {
+            var apiText;
+            if (result) {
+              var keys = 'id,hitokoto'.split(',');
+              if (result instanceof Array) {
+                result = result[0];
+              }
+              for (const k of keys) {
+                var value = result[k];
+                if (typeof value === 'string') {
+                  apiText = value;
+                  break;
+                } else if (value instanceof Object) {
+                  result = value;
+                }
+              }
+            }
+            apiText ? typing(apiText) : typing(text);
+          },
+          error: function(xhr, status, error) {
+            if (error) {
+              console.error('Failed to request https://v1.hitokoto.cn/:', error);
+            }
+            typing(text);
+          }
+        })
       
     })(window, document);
   </script>
