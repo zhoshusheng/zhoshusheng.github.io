@@ -8,13 +8,9 @@
     <meta http-equiv= "Cache-Control"   content= "no-cache" /> 
     <meta http-equiv= "Expires"   content= "0" /> 
     <meta name="renderer" content="webkit">
-    <meta name="keywords" content="大雄搜集站404提醒!" />
-	<meta name="description" content="大雄搜集站404提醒!" />
-	<meta name="author" content="大雄搜集站404提醒!" />
-    <meta name="copyright" content="大雄搜集站404提醒!" />
     <meta name="msapplication-TileImage" content="http://molure.cn/logo.png">
 	<meta name="viewport" content="width=device-width"><meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>404提醒</title>
+    <title>ꞝ哦豁，网页不见了ꞝ</title>
     <style type="text/css">
     body,html{margin:0;padding:0}
 audio{z-index:5;position:absolute;bottom:0;opacity:.1;-webkit-transition:all 2s;-moz-transition:all 2s;-ms-transition:all 2s;-o-transition:all 2s;transition:all 2s}
@@ -81,9 +77,6 @@ button:active{opacity:1}
 </style>
 </head>
 <body>
-<audio id="backgroud-music" controls="controls" autoplay="autoplay" loop="loop">
-    <source src="./music.mp3">
-</audio>
 <div id="background" class="wall"></div>
 <div id="midground" class="wall"></div>
 <div id="foreground" class="wall"></div>
@@ -102,7 +95,7 @@ window.onload=function () {
     update();
     function update() {
         gethi = new XMLHttpRequest();
-        gethi.open("GET","https://v1.hitokoto.cn/?c=d");
+        gethi.open("GET","https://v1.hitokoto.cn/?c=d");//一言API
         gethi.send();
         gethi.onreadystatechange = function () {
             if (gethi.readyState===4 && gethi.status===200) {
@@ -114,8 +107,5 @@ window.onload=function () {
     }
 }
 </script>
-<footer id="site-footer">
-    <a target="_blank" href="https://www.xzgogo.com/" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="https://s11.mogucdn.com/mlcdn/fe720b/191127_84dki40lhed1h3i03jdgk0fge1bgi_20x20.png" style="float:left;"><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#fff;">鄂ICP备99999001号-1</p></a><br>
-</footer>
 </body>
 </html>
