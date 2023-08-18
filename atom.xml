@@ -6,7 +6,7 @@
   <link href="https://zhoshusheng.github.io/atom.xml" rel="self"/>
   
   <link href="https://zhoshusheng.github.io/"/>
-  <updated>2023-07-21T03:17:15.073Z</updated>
+  <updated>2023-08-18T11:04:33.959Z</updated>
   <id>https://zhoshusheng.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>篡改猴大人版</title>
+    <link href="https://zhoshusheng.github.io/2023/08/18/%E7%AF%A1%E6%94%B9%E7%8C%B4%E5%A4%A7%E4%BA%BA%E7%89%88/"/>
+    <id>https://zhoshusheng.github.io/2023/08/18/%E7%AF%A1%E6%94%B9%E7%8C%B4%E5%A4%A7%E4%BA%BA%E7%89%88/</id>
+    <published>2023-08-18T08:20:19.000Z</published>
+    <updated>2023-08-18T11:04:33.959Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="要使用篡改猴大人版我们先要了解什么是”篡改猴”？"><a href="#要使用篡改猴大人版我们先要了解什么是”篡改猴”？" class="headerlink" title="要使用篡改猴大人版我们先要了解什么是”篡改猴”？"></a>要使用篡改猴大人版我们先要了解什么是”篡改猴”？</h3><p>  此插件原名叫tampermonkey，机译过来叫篡改猴，国人都它油猴。它相当于是一款在浏览器上运行和管理脚本的插件，而所谓的脚本，其本身就是一串代码，然后通过这个tampermonkey得以实现功能。</p><p>这些脚本的终极目的，是帮助你更好的浏览网页，比如有的能为原有的网站添加新功能，如：<a href="https://www.bilibili.com/video/BV1M44y1M78h?spm_id_from=333.999.0.0">豆瓣资源</a>大师，有的则可以优化网页界面，如：<a href="https://www.bilibili.com/video/BV1Yq4y1t7t6?spm_id_from=333.999.0.0">百度搜索结果优化</a>。</p><p>总之，有了这些脚本，我们在浏览网页的时候，会变得更加高效，舒服。有网友都说过这样一句话：“没这个我都不会上网。”可见它确实是我们上网的好帮手。</p><h3 id="篡改猴脚本要怎么用？"><a href="#篡改猴脚本要怎么用？" class="headerlink" title="篡改猴脚本要怎么用？"></a>篡改猴脚本要怎么用？</h3><h4 id="1-浏览器插件商店"><a href="#1-浏览器插件商店" class="headerlink" title="1.浏览器插件商店"></a><strong>1.浏览器插件商店</strong></h4><p>安装插件的方法其实也不难，很多浏览器，现在很多都有自带的扩展插件商店。我们可以找在浏览器的工具栏找到【扩展】、【应用】、【插件】之类的相关功能。</p><p>以Edge浏览器为例，我们打开菜单栏，查找【扩展】功能，选择【获取 Microsoft Edge 扩展】，就可以直接跳转到应用商店。<br><img src="https://picx.zhimg.com/80/v2-8d47ec7afbdfc5ad7a59260503c84f5a_720w.webp?source=1940ef5c" alt="enter description here"><br>在应用商店里，可以直接搜索和安装我们想要的扩展插件。</p><p>我们可以直接搜索油猴，一些浏览器可能需要搜索英文关键词monkey才能找到。</p><p>找到之后，点击旁边的【获取】，就可以自动安装插件到浏览器了。<br><img src="https://picx.zhimg.com/80/v2-0152a4dc6ae468855a0f98cb08f9527e_720w.webp?source=1940ef5c"></p><h4 id="2-外部安装"><a href="#2-外部安装" class="headerlink" title="2.外部安装"></a><strong>2.外部安装</strong></h4><p>谷歌浏览器等类型的浏览器，因为没有扩展中心，或者扩展中心无法使用，所以我们需要手动下载插件再进行安装。</p><p>首先，需要根据我们的浏览器类型，先下载一个可以兼容的油猴插件，通常为CRX格式。</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">https</span>:<span class="comment">//greasyfork.org/zh-CN</span></span><br></pre></td></tr></table></figure><p><img src="https://picx.zhimg.com/80/v2-a227a232fbd13eebc1f914c783065396_720w.webp?source=1940ef5c"><br> 下载完毕后就可以安装到浏览器了。</p><p>以谷歌浏览器为例，从菜单栏里找到【更多工具】-【扩展程序】。<img src="https://picx.zhimg.com/80/v2-114c9e824fc595164a151d2e56faaead_720w.webp?source=1940ef5c"></p><p>打开【开发者模式】，把下载好的crx格式的插件直接拖到这个页面来。<br><img src="https://pic1.zhimg.com/80/v2-dd870dd374a9cdc13115a9dd44779a45_720w.webp?source=1940ef5c"><br>确认添加扩展程序，就安装成功了。<br><img src="https://pic1.zhimg.com/80/v2-ffcbb0c94e9a8e1c4f192a4ed1300822_720w.webp?source=1940ef5c"></p><p>**</p><h3 id="如何使用？"><a href="#如何使用？" class="headerlink" title="如何使用？"></a>如何使用？</h3><p>油猴插件安装完毕后，浏览器右上角的工具栏会出现一个小图标，这就是用来管理脚本的工具。</p><p>点击油猴图标，选择【获取新脚本】。<br><img src="https://picx.zhimg.com/80/v2-155f217e4161f519b9a7d9baf7424282_720w.webp?source=1940ef5c"><br>通过预设的脚本网站，我们可以查找自己需要的某个扩展功能的脚本。<br><img src="https://picx.zhimg.com/80/v2-4a8e7728d2607739421664cb14720963_720w.webp?source=1940ef5c"><br>找到自己需要的脚本，点击就可以直接安装。<br><img src="https://picx.zhimg.com/80/v2-f104525ffdb60db889131695cbf11425_720w.webp?source=1940ef5c"><br>脚本添加完成后，会自动在对应的网页运行。</p><p>当检测到有脚本运行，油猴图标也会出现一个小数字提醒，可以查看当前正在运行的图标。</p><h3 id="现在我们进入正题“篡改猴大人版"><a href="#现在我们进入正题“篡改猴大人版" class="headerlink" title="现在我们进入正题“篡改猴大人版"></a>现在我们进入正题“篡改猴大人版</h3><h4 id="1-安装插件脚本"><a href="#1-安装插件脚本" class="headerlink" title="1.安装插件脚本"></a>1.安装插件脚本</h4><p>这里我们打开【Greasyfork】</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">https</span>:<span class="comment">//greasyfork.org/zh-CN/scripts</span></span><br></pre></td></tr></table></figure><p>然后搜索大人的【大人的Greasyfork】这个脚本<br><img src="https://img1.imgtp.com/2023/08/18/aaSQAJ53.PNG"><br><a href="https://greasyfork.org/zh-CN/scripts/23840-greasyfork-search-with-sleazyfork-results-include#additional-info">https://greasyfork.org/zh-CN/scripts/23840-greasyfork-search-with-sleazyfork-results-include#additional-info</a></p><p>可以看到这里我也是安装好了，可以看到上面显示==重新安装 #FC7930==就证明安装成功</p><h4 id="2-下载脚本"><a href="#2-下载脚本" class="headerlink" title="2.下载脚本"></a>2.下载脚本</h4><p>我们安装完成后，重新回到代码列表，按键盘上的==F5 #619AC3==键刷新一下页面就可以了<br><img src="https://img1.imgtp.com/2023/08/18/iBzMLQP4.PNG"></p><p>这里我们随便点击一个脚本，安装即可。(注意看里面的脚本介绍)</p><h4 id="3-脚本推荐"><a href="#3-脚本推荐" class="headerlink" title="3.脚本推荐"></a>3.脚本推荐</h4><h5 id="一，快猫破解【pc版】"><a href="#一，快猫破解【pc版】" class="headerlink" title="一，快猫破解【pc版】"></a>一，快猫破解【pc版】</h5><h6 id="介绍："><a href="#介绍：" class="headerlink" title="介绍："></a>介绍：</h6><p>我安装的是【新快猫破解pc版】脚本他可以使新快猫可以播放付费视频<br><img src="https://img1.imgtp.com/2023/08/18/nmnNkHb0.PNG"></p><h6 id="作用："><a href="#作用：" class="headerlink" title="作用："></a>作用：</h6><p>新快猫金币付费视频破解，各种热门视频免费看，vip视频暂不能破解。</p><h6 id="作用网站："><a href="#作用网站：" class="headerlink" title="作用网站："></a>作用网站：</h6><p><a href="https://cnhim5.com/">https://cnhim5.com/</a></p><p><a href="https://ins6up.com/">https://ins6up.com/</a></p><h5 id="二，优丝库-绅士图"><a href="#二，优丝库-绅士图" class="headerlink" title="二，优丝库(绅士图)"></a>二，优丝库(绅士图)</h5><h6 id="介绍：-1"><a href="#介绍：-1" class="headerlink" title="介绍："></a>介绍：</h6><p>免费观看优丝库图片(绅士图)，手机电脑均可使用</p><p><img src="https://img1.imgtp.com/2023/08/18/34pHevwF.PNG"></p><h6 id="作用网站：-1"><a href="#作用网站：-1" class="headerlink" title="作用网站："></a>作用网站：</h6><p><a href="https://yskhd.com/">https://yskhd.com</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;要使用篡改猴大人版我们先要了解什么是”篡改猴”？&quot;&gt;&lt;a href=&quot;#要使用篡改猴大人版我们先要了解什么是”篡改猴”？&quot; class=&quot;headerlink&quot; title=&quot;要使用篡改猴大人版我们先要了解什么是”篡改猴”？&quot;&gt;&lt;/a&gt;要使用篡改猴大人版我们先要了</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>QQ隐藏功能</title>
@@ -41,8 +61,8 @@
   
   <entry>
     <title>搜狗拼音输入法v13.7去广告精简优化版</title>
-    <link href="https://zhoshusheng.github.io/2023/07/19/v13-7%E5%8E%BB%E5%B9%BF%E5%91%8A%E7%B2%BE%E7%AE%80%E4%BC%98%E5%8C%96%E7%89%88/"/>
-    <id>https://zhoshusheng.github.io/2023/07/19/v13-7%E5%8E%BB%E5%B9%BF%E5%91%8A%E7%B2%BE%E7%AE%80%E4%BC%98%E5%8C%96%E7%89%88/</id>
+    <link href="https://zhoshusheng.github.io/2023/07/19/%E6%90%9C%E7%8B%97%E8%BE%93%E5%85%A5%E6%B3%95v13-7%E5%8E%BB%E5%B9%BF%E5%91%8A%E7%B2%BE%E7%AE%80%E4%BC%98%E5%8C%96%E7%89%88/"/>
+    <id>https://zhoshusheng.github.io/2023/07/19/%E6%90%9C%E7%8B%97%E8%BE%93%E5%85%A5%E6%B3%95v13-7%E5%8E%BB%E5%B9%BF%E5%91%8A%E7%B2%BE%E7%AE%80%E4%BC%98%E5%8C%96%E7%89%88/</id>
     <published>2023-07-19T07:59:48.000Z</published>
     <updated>2023-07-19T08:15:32.393Z</updated>
     
