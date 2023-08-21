@@ -1,3 +1,4 @@
+https://zhoshusheng.github.io/music/index.html
 https://zhoshusheng.github.io/2023/08/18/%E7%AF%A1%E6%94%B9%E7%8C%B4%E5%A4%A7%E4%BA%BA%E7%89%88/
 https://zhoshusheng.github.io/bangumis/index.html
 https://zhoshusheng.github.io/2023/07/21/QQ%E9%9A%90%E8%97%8F%E5%8A%9F%E8%83%BD/
@@ -12,7 +13,6 @@ https://zhoshusheng.github.io/2022/12/25/%E8%B1%86%E7%93%A32022%E5%B9%B4%E5%BA%A
 https://zhoshusheng.github.io/2023/07/19/%E6%90%9C%E7%8B%97%E8%BE%93%E5%85%A5%E6%B3%95v13-7%E5%8E%BB%E5%B9%BF%E5%91%8A%E7%B2%BE%E7%AE%80%E4%BC%98%E5%8C%96%E7%89%88/
 https://zhoshusheng.github.io/2023/07/19/%E6%9B%B4%E6%96%B04K%E7%89%88%E6%9C%AC%E4%B8%8B%E8%BD%BD/
 https://zhoshusheng.github.io/json/music.json
-https://zhoshusheng.github.io/music/index.html
 https://zhoshusheng.github.io/404/index.html
 https://zhoshusheng.github.io/about/index.html
 https://zhoshusheng.github.io/archives/index.html
