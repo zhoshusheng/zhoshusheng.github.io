@@ -1,0 +1,138 @@
+.hljs-comment, .hljs-quote {
+    color: #ff6262;
+    font-family: auto;
+    font-style: normal;
+  }
+  
+  
+  figure.highlight {
+    background: #838383;
+    border-radius: 5px;
+    padding-top: 30px;
+    box-shadow: 0 5px 10px #a1a1a1;
+  }
+  
+  [data-user-color-scheme='dark'] figure.highlight {
+    background: #000;
+  }
+  
+  /* 该伪元素用于展示代码语言,若不需要可删除 */
+  figure.highlight::before {
+    content: attr(data-type);
+    z-index: 999;
+    color: #ff8d33;
+    display: block;
+    width: 100%;
+    position: absolute;
+    top: 2px;
+    text-align: center;
+    font-weight: 600;
+  }
+  
+  figure.highlight::after {
+    background: #fc625d;
+    border-radius: 100%;
+    box-shadow: 20px 0 #fdbc40, 40px 0 #35cd4b;
+    content: '';
+    height: 12px;
+    width: 12px;
+    position: absolute;
+    top: 9px;
+    left: 12px;
+  }
+  
+  .hljs {
+    background-color: #00000000;
+  }
+  
+  /* 代码块颜色 */
+  figure.highlight tr {
+    background-color: #f9fffa;
+  }
+  
+  [data-user-color-scheme='dark'] .markdown-body table tr {
+    background-color: #25272d;
+  }
+  
+  figure.highlight > table {
+    border-radius: 0 0 5px 5px;
+  }
+  
+  .gutter {
+    background-color: #f9fffa;
+  }
+  
+  [data-user-color-scheme='dark'] .gutter {
+    background-color: #25272d;
+  }
+
+  p.file-path + figure.highlight {
+    border-top-left-radius: 0;
+  }
+  
+  p.file-path {
+  font-family: 华文新魏,SSTXinwei;
+  color: #9ce159;
+  background: #838383;
+  border-radius: 5px 0 0 0;
+  height: 1.6rem;
+  margin-bottom: -0.5rem;
+  padding: 0 0.2rem 0 0.2rem;
+  display: inline-block;
+  font-weight: 600;
+  position: relative;
+  top: 1.5rem;
+  filter: drop-shadow(0 0 4px #a1a1a1);
+  }
+  
+  p.file-path>span {
+    display: inline-block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    direction: rtl;
+    text-align: left;
+    max-width: 500px;
+  }
+  
+  @media (max-width: 768px) {
+    p.file-path>span {
+      max-width: 300px;
+    }
+  }
+  
+  @media (max-width: 500px) {
+    p.file-path>span {
+      max-width: 160px;
+    }
+  }
+  
+  [data-user-color-scheme='dark'] p.file-path {
+    background: #000;
+  }
+  
+  p.file-path::before {
+  content: '🔖 Path:/';
+  color: #ff7e7e;
+  font-weight: 700;
+  position: relative;
+  top: -0.4rem;
+  }
+  
+  p.file-path::after {
+  content: '';
+  display: inline-block;
+  width: 0;
+  height: 0;
+  position: absolute;
+  border-width: 20px;
+  border-top: 0.8rem solid #00000000;
+  border-bottom: 0.8rem solid #00000000;
+  right: -1.2rem;
+  border-left: 20px solid #838383;
+  }
+  
+  [data-user-color-scheme='dark'] p.file-path::after {
+    border-left: 20px solid #000;
+  }
+  

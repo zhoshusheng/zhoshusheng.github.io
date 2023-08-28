@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>卡巴拉达</title>
+  
+  
+  <link href="https://zhoshusheng.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://zhoshusheng.github.io/"/>
+  <updated>2023-08-28T07:37:13.665Z</updated>
+  <id>https://zhoshusheng.github.io/</id>
+  
+  <author>
+    <name>Zho sheng</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Ventoy中文版(装机神器u盘启动工具)</title>
+    <link href="https://zhoshusheng.github.io/2023/08/28/Ventoy%E4%B8%AD%E6%96%87%E7%89%88(%E8%A3%85%E6%9C%BA%E7%A5%9E%E5%99%A8u%E7%9B%98%E5%90%AF%E5%8A%A8%E5%B7%A5%E5%85%B7)/"/>
+    <id>https://zhoshusheng.github.io/2023/08/28/Ventoy%E4%B8%AD%E6%96%87%E7%89%88(%E8%A3%85%E6%9C%BA%E7%A5%9E%E5%99%A8u%E7%9B%98%E5%90%AF%E5%8A%A8%E5%B7%A5%E5%85%B7)/</id>
+    <published>2023-08-28T07:34:28.513Z</published>
+    <updated>2023-08-28T07:37:13.665Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://www.zn150.com/data/attachment/forum/202308/26/143006mk6ufnv82kuvk88m.png" alt="enter image description here"><br>是一款新一代多系统启动U盘解决方案.国产开源U盘启动制作工具,</p><p>支持Legacy BIOS和UEFI模式,理论上几乎支持任何ISO镜像文件,</p><p>支持加载多个不同类型的ISO文件启动,无需反复地格式化U盘,</p><p>插入U盘安装写入就能制作成可引导的USB启动盘,</p><p>然后把ISO系统文件拷贝到U盘里就能启动,无需其它操作。</p><p>注意问题</p><p>1、ISO文件放U盘任意目录或子目录，但全路径(包括目录和ISO文件名)中不能有中文或空格。</p><p>2、Win下如果一直安装失败，可先用分区工具把U盘分区全删除再把启动模式改为HDD再试。</p><p>3、关于兼容性的问题，部分老机器上可能存在兼容性问题。</p><p>使用说明视频教程：<a href="https://www.bilibili.com/video/BV13g4y1B7JQ">https://www.bilibili.com/video/BV13g4y1B7JQ</a></p><p>链接：<a href="https://zn50.lanzouq.com/iE3wf16hhafc">https://zn50.lanzouq.com/iE3wf16hhafc</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;http://www.zn150.com/data/attachment/forum/202308/26/143006mk6ufnv82kuvk88m.png&quot; alt=&quot;enter image description here&quot;&gt;&lt;br&gt;是一款新一代多</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>篡改猴大人版</title>
+    <link href="https://zhoshusheng.github.io/2023/08/18/%E7%AF%A1%E6%94%B9%E7%8C%B4%E5%A4%A7%E4%BA%BA%E7%89%88/"/>
+    <id>https://zhoshusheng.github.io/2023/08/18/%E7%AF%A1%E6%94%B9%E7%8C%B4%E5%A4%A7%E4%BA%BA%E7%89%88/</id>
+    <published>2023-08-18T16:20:19.000Z</published>
+    <updated>2023-08-28T07:37:13.665Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="要使用篡改猴大人版我们先要了解什么是”篡改猴”？"><a href="#要使用篡改猴大人版我们先要了解什么是”篡改猴”？" class="headerlink" title="要使用篡改猴大人版我们先要了解什么是”篡改猴”？"></a>要使用篡改猴大人版我们先要了解什么是”篡改猴”？</h3><p>  此插件原名叫tampermonkey，机译过来叫篡改猴，国人都它油猴。它相当于是一款在浏览器上运行和管理脚本的插件，而所谓的脚本，其本身就是一串代码，然后通过这个tampermonkey得以实现功能。</p><p>这些脚本的终极目的，是帮助你更好的浏览网页，比如有的能为原有的网站添加新功能，如：<a href="https://www.bilibili.com/video/BV1M44y1M78h?spm_id_from=333.999.0.0">豆瓣资源</a>大师，有的则可以优化网页界面，如：<a href="https://www.bilibili.com/video/BV1Yq4y1t7t6?spm_id_from=333.999.0.0">百度搜索结果优化</a>。</p><p>总之，有了这些脚本，我们在浏览网页的时候，会变得更加高效，舒服。有网友都说过这样一句话：“没这个我都不会上网。”可见它确实是我们上网的好帮手。</p><h3 id="篡改猴脚本要怎么用？"><a href="#篡改猴脚本要怎么用？" class="headerlink" title="篡改猴脚本要怎么用？"></a>篡改猴脚本要怎么用？</h3><h4 id="1-浏览器插件商店"><a href="#1-浏览器插件商店" class="headerlink" title="1.浏览器插件商店"></a><strong>1.浏览器插件商店</strong></h4><p>安装插件的方法其实也不难，很多浏览器，现在很多都有自带的扩展插件商店。我们可以找在浏览器的工具栏找到【扩展】、【应用】、【插件】之类的相关功能。</p><p>以Edge浏览器为例，我们打开菜单栏，查找【扩展】功能，选择【获取 Microsoft Edge 扩展】，就可以直接跳转到应用商店。<br><img src="https://picx.zhimg.com/80/v2-8d47ec7afbdfc5ad7a59260503c84f5a_720w.webp?source=1940ef5c" alt="enter description here"><br>在应用商店里，可以直接搜索和安装我们想要的扩展插件。</p><p>我们可以直接搜索油猴，一些浏览器可能需要搜索英文关键词monkey才能找到。</p><p>找到之后，点击旁边的【获取】，就可以自动安装插件到浏览器了。<br><img src="https://picx.zhimg.com/80/v2-0152a4dc6ae468855a0f98cb08f9527e_720w.webp?source=1940ef5c"></p><h4 id="2-外部安装"><a href="#2-外部安装" class="headerlink" title="2.外部安装"></a><strong>2.外部安装</strong></h4><p>谷歌浏览器等类型的浏览器，因为没有扩展中心，或者扩展中心无法使用，所以我们需要手动下载插件再进行安装。</p><p>首先，需要根据我们的浏览器类型，先下载一个可以兼容的油猴插件，通常为CRX格式。</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs javascript"><span class="hljs-attr">https</span>:<span class="hljs-comment">//greasyfork.org/zh-CN</span><br></code></pre></td></tr></table></figure><p><img src="https://picx.zhimg.com/80/v2-a227a232fbd13eebc1f914c783065396_720w.webp?source=1940ef5c"><br> 下载完毕后就可以安装到浏览器了。</p><p>以谷歌浏览器为例，从菜单栏里找到【更多工具】-【扩展程序】。<img src="https://picx.zhimg.com/80/v2-114c9e824fc595164a151d2e56faaead_720w.webp?source=1940ef5c"></p><p>打开【开发者模式】，把下载好的crx格式的插件直接拖到这个页面来。<br><img src="https://pic1.zhimg.com/80/v2-dd870dd374a9cdc13115a9dd44779a45_720w.webp?source=1940ef5c"><br>确认添加扩展程序，就安装成功了。<br><img src="https://pic1.zhimg.com/80/v2-ffcbb0c94e9a8e1c4f192a4ed1300822_720w.webp?source=1940ef5c"></p><p>**</p><h3 id="如何使用？"><a href="#如何使用？" class="headerlink" title="如何使用？"></a>如何使用？</h3><p>油猴插件安装完毕后，浏览器右上角的工具栏会出现一个小图标，这就是用来管理脚本的工具。</p><p>点击油猴图标，选择【获取新脚本】。<br><img src="https://picx.zhimg.com/80/v2-155f217e4161f519b9a7d9baf7424282_720w.webp?source=1940ef5c"><br>通过预设的脚本网站，我们可以查找自己需要的某个扩展功能的脚本。<br><img src="https://picx.zhimg.com/80/v2-4a8e7728d2607739421664cb14720963_720w.webp?source=1940ef5c"><br>找到自己需要的脚本，点击就可以直接安装。<br><img src="https://picx.zhimg.com/80/v2-f104525ffdb60db889131695cbf11425_720w.webp?source=1940ef5c"><br>脚本添加完成后，会自动在对应的网页运行。</p><p>当检测到有脚本运行，油猴图标也会出现一个小数字提醒，可以查看当前正在运行的图标。</p><h3 id="现在我们进入正题“篡改猴大人版"><a href="#现在我们进入正题“篡改猴大人版" class="headerlink" title="现在我们进入正题“篡改猴大人版"></a>现在我们进入正题“篡改猴大人版</h3><h4 id="1-安装插件脚本"><a href="#1-安装插件脚本" class="headerlink" title="1.安装插件脚本"></a>1.安装插件脚本</h4><p>这里我们打开【Greasyfork】</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs javascript"><span class="hljs-attr">https</span>:<span class="hljs-comment">//greasyfork.org/zh-CN/scripts</span><br></code></pre></td></tr></table></figure><p>然后搜索大人的【大人的Greasyfork】这个脚本<br><img src="https://img1.imgtp.com/2023/08/18/aaSQAJ53.PNG"><br><a href="https://greasyfork.org/zh-CN/scripts/23840-greasyfork-search-with-sleazyfork-results-include#additional-info">https://greasyfork.org/zh-CN/scripts/23840-greasyfork-search-with-sleazyfork-results-include#additional-info</a></p><p><a href="https://greasyfork.org/zh-CN/scripts/449346-greasefork%E6%88%90%E4%BA%BA%E8%84%9A%E6%9C%AC%E8%B7%B3%E8%BD%AC%E6%8C%89%E9%92%AE">https://greasyfork.org/zh-CN/scripts/449346-greasefork%E6%88%90%E4%BA%BA%E8%84%9A%E6%9C%AC%E8%B7%B3%E8%BD%AC%E6%8C%89%E9%92%AE</a></p><p>可以看到这里我也是安装好了，可以看到上面显示重新安装 就证明安装成功</p><h4 id="2-下载脚本"><a href="#2-下载脚本" class="headerlink" title="2.下载脚本"></a>2.下载脚本</h4><p>我们安装完成后，重新回到代码列表，按键盘上的F5键刷新一下页面就可以了<br><img src="https://img1.imgtp.com/2023/08/18/iBzMLQP4.PNG"></p><p>这里我们随便点击一个脚本，安装即可。(注意看里面的脚本介绍)</p><p>或者你可以试着访问这个页面（必须关闭广告净化类插件）<br><a href="https://sleazyfork.org/zh-CN/scripts?sort=total_installs">https://sleazyfork.org/zh-CN/scripts?sort=total_installs</a></p><h4 id="3-脚本推荐"><a href="#3-脚本推荐" class="headerlink" title="3.脚本推荐"></a>3.脚本推荐</h4><h4 id="一，快猫破解【pc版】"><a href="#一，快猫破解【pc版】" class="headerlink" title="一，快猫破解【pc版】"></a>一，快猫破解【pc版】</h4><h4 id="地址："><a href="#地址：" class="headerlink" title="地址："></a>地址：</h4><p><a href="https://sleazyfork.org/zh-CN/scripts/464118-%E6%96%B0%E5%BF%AB%E7%8C%AB%E7%A0%B4%E8%A7%A3-pc%E7%89%88">https://sleazyfork.org/zh-CN/scripts/464118-%E6%96%B0%E5%BF%AB%E7%8C%AB%E7%A0%B4%E8%A7%A3-pc%E7%89%88</a></p><h4 id="介绍："><a href="#介绍：" class="headerlink" title="介绍："></a>介绍：</h4><p>我安装的是【新快猫破解pc版】脚本他可以使新快猫可以播放付费视频</p><p><img src="https://img1.imgtp.com/2023/08/18/nmnNkHb0.PNG"></p><h4 id="作用："><a href="#作用：" class="headerlink" title="作用："></a>作用：</h4><p>新快猫金币付费视频破解，各种热门视频免费看，vip视频暂不能破解。</p><h4 id="作用网站："><a href="#作用网站：" class="headerlink" title="作用网站："></a>作用网站：</h4><p><a href="https://cnhim5.com/">https://cnhim5.com/</a></p><p><a href="https://ins6up.com/">https://ins6up.com/</a></p><h4 id="二，优丝库-绅士图"><a href="#二，优丝库-绅士图" class="headerlink" title="二，优丝库(绅士图)"></a>二，优丝库(绅士图)</h4><h4 id="地址：-1"><a href="#地址：-1" class="headerlink" title="地址："></a>地址：</h4><p><a href="https://sleazyfork.org/zh-CN/scripts/426690-%E4%BC%98%E4%B8%9D%E5%BA%93-%E7%BB%85%E5%A3%AB%E5%9B%BE">https://sleazyfork.org/zh-CN/scripts/426690-%E4%BC%98%E4%B8%9D%E5%BA%93-%E7%BB%85%E5%A3%AB%E5%9B%BE</a></p><h4 id="介绍：-1"><a href="#介绍：-1" class="headerlink" title="介绍："></a>介绍：</h4><p>免费观看优丝库图片(绅士图)，手机电脑均可使用</p><p><img src="https://img1.imgtp.com/2023/08/18/34pHevwF.PNG"></p><h4 id="作用网站：-1"><a href="#作用网站：-1" class="headerlink" title="作用网站："></a>作用网站：</h4><p><a href="https://yskhd.com/">https://yskhd.com</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;要使用篡改猴大人版我们先要了解什么是”篡改猴”？&quot;&gt;&lt;a href=&quot;#要使用篡改猴大人版我们先要了解什么是”篡改猴”？&quot; class=&quot;headerlink&quot; title=&quot;要使用篡改猴大人版我们先要了解什么是”篡改猴”？&quot;&gt;&lt;/a&gt;要使用篡改猴大人版我们先要了</summary>
+      
+    
+    
+    
+    <category term="知识" scheme="https://zhoshusheng.github.io/categories/%E7%9F%A5%E8%AF%86/"/>
+    
+    
+    <category term="知识" scheme="https://zhoshusheng.github.io/tags/%E7%9F%A5%E8%AF%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>QQ隐藏功能</title>
+    <link href="https://zhoshusheng.github.io/2023/07/21/QQ%E9%9A%90%E8%97%8F%E5%8A%9F%E8%83%BD/"/>
+    <id>https://zhoshusheng.github.io/2023/07/21/QQ%E9%9A%90%E8%97%8F%E5%8A%9F%E8%83%BD/</id>
+    <published>2023-07-21T11:12:18.000Z</published>
+    <updated>2023-08-28T07:37:13.665Z</updated>
+    
+    <content type="html"><![CDATA[<ol><li><p>好友纪念日<br>可以查询加好友时间，最近30天内互动次数，你对她的亲密度，拥有的共同好友<br><a href="https://h5.qzone.qq.com/friend/day/%E4%BD%A0%E7%9A%84%E6%89%A3%E6%89%A3%E5%8F%B7/%E5%AF%B9%E6%96%B9%E7%9A%84%E6%89%A3%E6%89%A3%E5%8F%B7/friendDay?_wwv=90802&amp;_nav_statusclr=">https://h5.qzone.qq.com/friend/day/你的扣扣号/对方的扣扣号/friendDay?_wwv=90802&amp;_nav_statusclr=</a></p></li><li><p>查询当前账号封禁状态<br>(适用于转发消息过多被临时禁止发消息时解除)<br><a href="https://accounts.qq.com/safe/message/unlock?_wwv=90802&amp;_nav_statusclr=">https://accounts.qq.com/safe/message/unlock?_wwv=90802&amp;_nav_statusclr=</a></p></li><li><p>单向好友管理<br>(以下联系人不是你的好友，但你在TA的好友列表中)<br><a href="https://ti.qq.com/friends/unidirection?_wwv=90802&amp;_nav_statusclr=">https://ti.qq.com/friends/unidirection?_wwv=90802&amp;_nav_statusclr=</a></p></li><li><p>你的个人信息查询<br>(需要实名认证过)<br>(包括 姓名 性别 国籍 身份证号 身份证有效期 职业类别 手机号码 住址)<br><a href="https://h5.qianbao.qq.com/auth/userinfo?frompage=index?_wwv=90802&amp;_nav_statusclr=">https://h5.qianbao.qq.com/auth/userinfo?frompage=index?_wwv=90802&amp;_nav_statusclr=</a></p></li><li><p>你的设备信息<br>(包括设备型号 操作系统 操作系统版本 应用版本)<br><a href="https://accounts.qq.com/info/management/device?_wv=3&amp;_wwv=128?_wwv=90802&amp;_nav_statusclr=">https://accounts.qq.com/info/management/device?_wv=3&amp;_wwv=128?_wwv=90802&amp;_nav_statusclr=</a></p></li><li><p>你的头像(加密链接)地址<br><a href="https://accounts.qq.com/info/management/account?type=2&amp;_wv=3&amp;_wwv=128?_wwv=90802&amp;_nav_statusclr=">https://accounts.qq.com/info/management/account?type=2&amp;_wv=3&amp;_wwv=128?_wwv=90802&amp;_nav_statusclr=</a></p></li><li><p>你的个人信息<br><a href="https://accounts.qq.com/info/management/account?type=1&amp;_wv=3&amp;_wwv=128?_wwv=90802&amp;_nav_statusclr=">https://accounts.qq.com/info/management/account?type=1&amp;_wv=3&amp;_wwv=128?_wwv=90802&amp;_nav_statusclr=</a></p></li><li><p>查看对方qq空间背景音乐(不需要权限)<br><a href="https://y.qq.com/m/qzonemusic/old/mqzindex.html?uin=%E5%AF%B9%E6%96%B9QQ&amp;guestuin=%E5%AF%B9%E6%96%B9QQ">https://y.qq.com/m/qzonemusic/old/mqzindex.html?uin=对方QQ&amp;guestuin=对方QQ</a></p></li><li><p>查看别人qq空间访客周报<br><a href="https://h5.qzone.qq.com/qzoneVisitor/reporter/detail/10010/10010_20220321?_wwv=90802&amp;_nav_statusclr=">https://h5.qzone.qq.com/qzoneVisitor/reporter/detail/10010/10010_20220321?_wwv=90802&amp;_nav_statusclr=</a><br>表示10010的2022-03-21这一周的空间访客周报，自己改对应的</p></li><li><p>查询对方的礼物墙<br>(不论对方是否开放查看都可以)<br><a href="https://h5.qzone.qq.com/v2/vip/giftv2/giftShelf?&amp;_fv=0&amp;_wwv=128&amp;from=card&amp;_wv=16777218&amp;hoster=%E5%AF%B9%E6%96%B9QQ">https://h5.qzone.qq.com/v2/vip/giftv2/giftShelf?&amp;_fv=0&amp;_wwv=128&amp;from=card&amp;_wv=16777218&amp;hoster=对方QQ</a></p></li><li><p>查看每一年的今天你的好友qq空间发了什么<br>(需要对方没隐藏)<br><a href="https://h5.qzone.qq.com/platform/lastyearfeeds?_wv=0&amp;_wvNb=ffff2152">https://h5.qzone.qq.com/platform/lastyearfeeds?_wv=0&amp;_wvNb=ffff2152</a></p></li><li><p>本群QQ能量值排行<br><a href="https://club.vip.qq.com/qqvalue/rank?gc=%E6%89%A3%E6%89%A3%E7%BE%A4%E5%8F%B7%E7%A0%81&amp;_wwv=90802&amp;_nav_statusclr=">https://club.vip.qq.com/qqvalue/rank?gc=扣扣群号码&amp;_wwv=90802&amp;_nav_statusclr=</a></p></li><li><p>快速发红包<br><a href="https://h5.qianbao.qq.com/hbGroup">https://h5.qianbao.qq.com/hbGroup</a></p></li><li><p>中秋祝福<br>(可以用来群发消息)<br><a href="https://h5.qzone.qq.com/v2/mass?_wv=16777223&amp;_wwv=128">https://h5.qzone.qq.com/v2/mass?_wv=16777223&amp;_wwv=128</a></p></li><li><p>临时会话(需要对方开启)<br><a href="http://wpa.qq.com/msgrd?v=3&amp;uin=%E5%AF%B9%E6%96%B9QQ&amp;site=qq&amp;menu=yes">http://wpa.qq.com/msgrd?v=3&amp;uin=对方QQ&amp;site=qq&amp;menu=yes</a></p></li><li><p>隐藏QQ搜索<br>(有些qq设置了隐藏搜索，点这个会跳转到对方qq空间，然后点他的头像，就可以跳转到对方qq主页)<br><a href="https://mp.qzone.qq.com/u/%E5%AF%B9%E6%96%B9QQ">https://mp.qzone.qq.com/u/对方QQ</a></p></li><li><p>QQ空间工具<br>(可以查看qq的一些用户参数 如<br>uin<br>p_uin<br>pgv_info=ssid<br>pgv_pvid<br>fqm_pvqid<br>fqm_sessionid<br>qq_locale_id<br>skey<br><a href="https://user.qzone.qq.com/troubleshooter">https://user.qzone.qq.com/troubleshooter</a></p></li><li><p>QQx5内核调试，可以打开vConsole调试功能，自己不懂的设置别乱改<br><a href="http://debugx5.qq.com/">http://debugx5.qq.com</a><br>需要密码，是debugx5</p></li><li><p>查询你的QQ被举报的次数<br><a href="https://m.q.qq.com/a/s/07befc388911b30c2359bfa383f2d693">https://m.q.qq.com/a/s/07befc388911b30c2359bfa383f2d693</a></p></li></ol><ol start="20"><li><p>查询你举报的记录，可以用来做某些群的防内鬼，让他扫了把截图发来，确保他没有举报记录，一定要让他戒完整了，最好录屏<br><a href="https://jubao.qq.com/Public_appeal/impeach_public_appeal_entry?_wv=1024&amp;appname=appeal&amp;subapp=public&amp;jubaotype=impeach">https://jubao.qq.com/Public_appeal/impeach_public_appeal_entry?_wv=1024&amp;appname=appeal&amp;subapp=public&amp;jubaotype=impeach</a></p></li><li><p>修改网址标栏题颜色<br>比如qq.com是正常的，但是这样打开颜色就变了<br>qq.com/?_wv=666&amp;_wvNb=ffff2152<br>后缀↓<br>?_wv=666&amp;_wvNb=ffff2152<br>任何链接后加这个就可以修改标题颜色，你们应该看得懂颜色怎么改</p></li></ol><ol start="22"><li><p>去除网址打开举报按钮，总是有的人吃饱了打厨子，点右上角的菜单举报<br>正常的网址比如qq.com，右上角都有个三点菜单，里面有举报<br>这样修改<br><a href="http://www.qq.com/?_wwv=90802&amp;_nav_statusclr=">www.qq.com?_wwv=90802&amp;_nav_statusclr=</a><br>在一个网址后面加上这个后缀，在qq里打开就不仅没有举报按钮，而且菜单都没有了</p></li><li><p>qq相册回收站<br><a href="https://h5.qzone.qq.com/photo/recycle/">https://h5.qzone.qq.com/photo/recycle/</a></p></li><li><p>qq空间访客周报<br><a href="https://h5.qzone.qq.com/qzoneVisitor/reporter/list">https://h5.qzone.qq.com/qzoneVisitor/reporter/list</a></p></li><li><p>qq自带表情搜索<br><a href="https://ti.qq.com/hybrid-h5/emoticon/recommend">https://ti.qq.com/hybrid-h5/emoticon/recommend</a></p></li><li><p>延时转账，可以设置2小时，24小时以后到账，防骗子<br><a href="https://mqq.tenpay.com/v2/hybrid">https://mqq.tenpay.com/v2/hybrid</a> … ent/pay_delay.shtml</p></li><li><p>qq注册时间查询，点qq身份证<br><a href="https://ti.qq.com/qqmedal2/">https://ti.qq.com/qqmedal2/</a></p></li><li><p>修改qq应用图标，需要会员<br><a href="https://zb.vip.qq.com/v2/pages/qqIconMall">https://zb.vip.qq.com/v2/pages/qqIconMall</a></p></li><li><p>qq亲密关系邀请<br><a href="https://ti.qq.com/hybrid-h5/intimate/list">https://ti.qq.com/hybrid-h5/intimate/list</a></p></li><li><p>qq历史头像<br><a href="https://zb.vip.qq.com/v2/pages/newMinePage?appid=23">https://zb.vip.qq.com/v2/pages/newMinePage?appid=23</a></p></li><li><p>qq空间关闭(可恢复)<br><a href="https://imgcache.qq.com/qzone/web/qzone_submit_close.html">https://imgcache.qq.com/qzone/web/qzone_submit_close.html</a></p></li><li><p>注销qq账号<br><a href="https://myun.tenpay.com/mqq/account_cancel/index.shtml">https://myun.tenpay.com/mqq/account_cancel/index.shtml</a></p></li><li><p>qq广告个性化推荐，一定要关闭<br><a href="https://ads.privacy.qq.com/ads/adoptout.html">https://ads.privacy.qq.com/ads/adoptout.html</a></p></li><li><p>qq个性化内容，不用的关闭<br><a href="https://accounts.qq.com/info/management/individuation">https://accounts.qq.com/info/management/individuation</a></p></li><li><p>qq个人资料pdf下载<br><a href="https://accounts.qq.com/info/management/download">https://accounts.qq.com/info/management/download</a></p></li><li><p>开启接收来自wx的转账<br>开启后，他人可以在wx中通过你的扣扣号码给你转账到QQ钱包余额<br><a href="https://h5.qianbao.qq.com/wechat/allow?_wv=2">https://h5.qianbao.qq.com/wechat/allow?_wv=2</a></p></li><li><p>营销信息，一定要关闭<br><a href="https://kf.qq.com/touch/proto/pay.html">https://kf.qq.com/touch/proto/pay.html</a></p></li><li><p>qq账单下载<br><a href="https://m.qianbao.qq.com/pages/payBill">https://m.qianbao.qq.com/pages/payBill</a><br>用于个人对账<br>可下载对应时间段内的账单流水文件（Excel格式），仅限个人对账使用<br>用作材料证明<br>可下载加盖公章的交易明细证明（PDF格式），常用于出国签证、银行贷款、财产纠纷、诉讼等事务证明材料</p></li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;好友纪念日&lt;br&gt;可以查询加好友时间，最近30天内互动次数，你对她的亲密度，拥有的共同好友&lt;br&gt;&lt;a href=&quot;https://h5.qzone.qq.com/friend/day/%E4%BD%A0%E7%9A%84%E6%89%A3%E6%89%A</summary>
+      
+    
+    
+    
+    <category term="分享" scheme="https://zhoshusheng.github.io/categories/%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="分享" scheme="https://zhoshusheng.github.io/tags/%E5%88%86%E4%BA%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>搜狗拼音输入法v13.7去广告精简优化版</title>
+    <link href="https://zhoshusheng.github.io/2023/07/19/%E6%90%9C%E7%8B%97%E8%BE%93%E5%85%A5%E6%B3%95v13-7%E5%8E%BB%E5%B9%BF%E5%91%8A%E7%B2%BE%E7%AE%80%E4%BC%98%E5%8C%96%E7%89%88/"/>
+    <id>https://zhoshusheng.github.io/2023/07/19/%E6%90%9C%E7%8B%97%E8%BE%93%E5%85%A5%E6%B3%95v13-7%E5%8E%BB%E5%B9%BF%E5%91%8A%E7%B2%BE%E7%AE%80%E4%BC%98%E5%8C%96%E7%89%88/</id>
+    <published>2023-07-19T15:59:48.000Z</published>
+    <updated>2023-08-28T07:37:13.665Z</updated>
+    
+    <content type="html"><![CDATA[<p>搜狗拼音输入法曾几何时是国内每台电脑上都必装的一个软件，也是唯一一个仅次于QQ的客户端，但是后来这货堕落了，强弹广告，后台插件，到后来开始偷偷推广自己的搜狗浏览器，直接导致了像QQ拼音那样干净无广告的输入法迅速占据市场的一壁江山。其实也没有办法，腾讯除了QQ外别的客户端都不弹广告，资金充足，而搜狗和暴风这样的单客户端产品的公司，不在里面上广告就没法活了。<br>本版去除了广告、插件、浏览器，给还喜欢这个输入法的朋友留一个念想。</p><p><strong>#1，新版变化 #</strong></p><ul><li>输入法界面焕新改版，使用体验更加轻快简洁</li><li>我的输入法全新上线，整合属性设置和个人中心</li><li>右键菜单更新升级，操作更便捷</li><li>状态栏瘦身减项，清爽干净</li><li>优化输入法的图片资源加载，提升输入法运行效率</li><li>解决AutoCad类软件的首键异常问题</li><li>解决激战2类游戏候选窗口正确显示、隐藏的问题  </li></ul><p><img src="https://pic.ldqkcdn.top/20191129/s9o9oztzh62o.png"></p><p><strong># 2，本版特点 #</strong></p><ul><li>免广告，专注精简优化，彻底免升级自动更新。</li><li>去广告（任务栏通知区域搜狐微门户弹窗、勋章推荐弹窗）</li><li>无推广行为，默认无多余干扰提示，默认无多余进程驻留；</li><li>可选：云计算候选、后台联网组件（词库更新、配置同步）</li><li>删除：核心服务程序、网络更新程序、辅助工具模块、崩溃反馈程序；</li><li>删除：图片表情、人工语音、皮肤推荐、皮肤盒子/flash皮肤等，可在工具箱里安装；</li><li>优化：取消搜索候选、皮肤推荐/flash皮肤模式、词条/升级/新勋章/活跃天数等提示；</li><li>安装程序：支持Windows 10 Metro模式，支持ARM64位系统，支持检测覆盖安装。</li></ul><p><strong># 3，下载地址 #</strong><br><a href="https://ldqk.lanzouk.com/ioKy612uo0ve">https://ldqk.lanzouk.com/ioKy612uo0ve</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;搜狗拼音输入法曾几何时是国内每台电脑上都必装的一个软件，也是唯一一个仅次于QQ的客户端，但是后来这货堕落了，强弹广告，后台插件，到后来开始偷偷推广自己的搜狗浏览器，直接导致了像QQ拼音那样干净无广告的输入法迅速占据市场的一壁江山。其实也没有办法，腾讯除了QQ外别的客户端都不</summary>
+      
+    
+    
+    
+    <category term="分享" scheme="https://zhoshusheng.github.io/categories/%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="分享" scheme="https://zhoshusheng.github.io/tags/%E5%88%86%E4%BA%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>抖音去除广告无水印版</title>
+    <link href="https://zhoshusheng.github.io/2023/07/19/%E5%8E%BB%E9%99%A4%E5%B9%BF%E5%91%8A%E6%97%A0%E6%B0%B4%E5%8D%B0%E7%89%88/"/>
+    <id>https://zhoshusheng.github.io/2023/07/19/%E5%8E%BB%E9%99%A4%E5%B9%BF%E5%91%8A%E6%97%A0%E6%B0%B4%E5%8D%B0%E7%89%88/</id>
+    <published>2023-07-19T15:51:17.000Z</published>
+    <updated>2023-08-28T07:37:13.665Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://ldqk.xyz/static/images/2023/04/20/640px-Douyin_logo_16820034220829573403.svg.png"></p><p>抖音App是全球最受欢迎的短视频应用，遇到喜欢的视频保存到本地会留下抖音水印。抖音短视频去水印版，无需去水印解析网站，无需任何辅助下载工具，轻松保存无水印视频到手机，这是最新去水印修改版。</p><p><img src="https://ldqk.xyz/static/images/2023/04/20/2023010903525328_16820034233262443460.jpeg"></p><p><strong># 1，版本信息 #</strong></p><p>by 唯美小奇, 夏天</p><ul><li> 去保存视频到本地的抖音水印</li><li> 去启动广告、去短视频流广告</li><li> 去除状态栏视频推送，删除不必要权限</li><li> 去除升级提示弹窗，去设置检测更新项</li></ul><p>PS：如保存视频还有水印, 请卸载已有版。</p><p>by 小書（v9.6 魅族定制版）</p><ul><li> 基于魅族版，去保存视频水印</li><li> 去盗版提示、去除底栏的加号</li><li> 纯净无加固，无引流信息弹窗</li><li> 去下载限制（下载图标是灰的，但可以点）</li><li> 去升级提示弹窗，彻底禁止检测升级（v2）</li><li> 抖音短视频魅族/三星定制版</li><li> 应用体积较小、无启动广告、无推送，升级提示延长！</li><li> 官方抖音精简版、抖音极速版（都是功能阉割的推广版）</li><li> 主要为了获得下沉市场，针对较低配置的安卓手机用户</li><li> 主打“现金激励”赚钱噱头，签到看视频领取红包奖励</li><li> 安装包相对较小，内存占用低，仅保留核心功能</li><li> 无钱包、订单、小程序、卡卷、动态壁纸等功能</li><li> 不能发布短视频，没有商品橱窗等电商入口功能</li></ul><p><strong># 2，下载地址 #</strong></p><blockquote><p><a href="https://www.123pan.com/s/EywDVv-4UCBd.html">https://www.123pan.com/s/EywDVv-4UCBd.html</a></p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://ldqk.xyz/static/images/2023/04/20/640px-Douyin_logo_16820034220829573403.svg.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;抖音App是全球最受欢迎的短视频应用，遇到喜欢的视频保存到</summary>
+      
+    
+    
+    
+    <category term="分享" scheme="https://zhoshusheng.github.io/categories/%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="分享" scheme="https://zhoshusheng.github.io/tags/%E5%88%86%E4%BA%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>恐怖世界/香水时代/小红书下载抑郁症自测</title>
+    <link href="https://zhoshusheng.github.io/2023/07/19/%E6%8A%91%E9%83%81%E7%97%87%E8%87%AA%E6%B5%8B/"/>
+    <id>https://zhoshusheng.github.io/2023/07/19/%E6%8A%91%E9%83%81%E7%97%87%E8%87%AA%E6%B5%8B/</id>
+    <published>2023-07-19T15:37:17.000Z</published>
+    <updated>2023-08-28T07:37:13.665Z</updated>
+    
+    <content type="html"><![CDATA[<p>没有采取单发文章推荐的内容，大部分来自网络论坛或网友邮件投稿。</p><p>如果你也有不错的内容想分享，请向我投稿。</p><p>以下网站如有广告等信息请自行甄别，请勿上当受骗！</p><p><strong>如遇网站打不开可能是福利吧友人数太多导致网站短时瘫痪，先收藏稍后访问即可！</strong></p><hr><p><strong># 一、抑郁症自测（健康是福） #</strong></p><p>虽然网上不少人对于抑郁症玩梗，但这个病确实是当代人不可忽略的疾病</p><p>如果有相关症状，心理调节虽然有一定作用，严重状况还是需要药物辅助</p><blockquote><p>访问地址：<a href="http://www.ntneuro.org/scale/scl90.asp">http://www.ntneuro.org/scale/scl90.asp</a></p></blockquote><p><img src="https://image.baidu.com/search/down?url=https://tvax2.sinaimg.cn/large/006BNqYCly1hfn3joyz7zj312w0nvtgw.jpg"></p><p><strong># 二、恐怖世界（恐怖电影大全） #</strong></p><p>在线电影站，恐怖影片类型，只收录恐怖片，恐怖片爱好者可以收藏！</p><blockquote><p>访问地址：<a href="https://www.840f.com/">https://www.840f.com/</a></p></blockquote><p><img src="https://image.baidu.com/search/down?url=https://tvax1.sinaimg.cn/large/006BNqYCly1hfn3jpd760j318n0ns7ic.jpg"></p><p><strong># 三、图像提取器（Image Extractor） #</strong></p><p>输入任意网址可在线提取该网页图片，听起来很强大，找个无法在线下图的网站试试？</p><p>网友反馈不太好用，介意勿尝试！</p><blockquote><p>访问地址：<a href="https://extract.pics/">https://extract.pics/</a></p></blockquote><p><img src="https://image.baidu.com/search/down?url=https://tvax4.sinaimg.cn/large/006BNqYCly1hfn3jpjsdsj315q0mf0vo.jpg"></p><p><strong># 四、小红书在线下载器 #</strong></p><p>在线下载器系列，除了小红书内容意外，还支持油管，抖音等平台的内容下载</p><blockquote><p>访问地址：<a href="https://dlpanda.com/zh-CN/xiaohongshu">https://dlpanda.com/zh-CN/xiaohongshu</a></p></blockquote><p><img src="https://image.baidu.com/search/down?url=https://tvax1.sinaimg.cn/large/006BNqYCly1hfn3jppksaj31640pkaeg.jpg"></p><p><strong># 五、Google Chrome最新版离线安装包下载 #</strong></p><p>“异次元软件世界”的一个下载专区，提供谷歌浏览器最新离线安装包下载，无法科学联网的朋友可使用</p><blockquote><p>访问地址：<a href="https://www.iplaysoft.com/tools/chrome/">https://www.iplaysoft.com/tools/chrome/</a></p></blockquote><p><img src="https://image.baidu.com/search/down?url=https://tvax4.sinaimg.cn/large/006BNqYCly1hfn3jq13voj316u0uo7gn.jpg"></p><p><strong># 六、香水时代（香水科普社区） #</strong></p><p>专项社区，科普香水相关知识，一知半解了解下！</p><blockquote><p>访问地址：<a href="https://www.nosetime.com/">https://www.nosetime.com/</a></p></blockquote><p><img src="https://image.baidu.com/search/down?url=https://tvax3.sinaimg.cn/large/006BNqYCly1hfn3jqdivkj316u0qvqbp.jpg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;没有采取单发文章推荐的内容，大部分来自网络论坛或网友邮件投稿。&lt;/p&gt;
+&lt;p&gt;如果你也有不错的内容想分享，请向我投稿。&lt;/p&gt;
+&lt;p&gt;以下网站如有广告等信息请自行甄别，请勿上当受骗！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;如遇网站打不开可能是福利吧友人数太多导致网站短时瘫痪，先收藏</summary>
+      
+    
+    
+    
+    <category term="分享" scheme="https://zhoshusheng.github.io/categories/%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="分享" scheme="https://zhoshusheng.github.io/tags/%E5%88%86%E4%BA%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2023最新泰国恐怖电影《祭屋出租》恐怖片爱好者不要错过</title>
+    <link href="https://zhoshusheng.github.io/2023/07/19/%E6%81%90%E6%80%96%E7%89%87%E7%88%B1%E5%A5%BD%E8%80%85%E4%B8%8D%E8%A6%81%E9%94%99%E8%BF%87/"/>
+    <id>https://zhoshusheng.github.io/2023/07/19/%E6%81%90%E6%80%96%E7%89%87%E7%88%B1%E5%A5%BD%E8%80%85%E4%B8%8D%E8%A6%81%E9%94%99%E8%BF%87/</id>
+    <published>2023-07-19T15:33:56.000Z</published>
+    <updated>2023-08-28T07:37:13.665Z</updated>
+    
+    <content type="html"><![CDATA[<p>《祭屋出租》是泰国导演“索分·沙达菲斯”导演的2023年最新恐怖电影</p><p>这位导演曾经拍过《鬼影》《厉鬼将映》《死神的十字路口》等多部经典恐怖电影</p><p>《祭屋出租》讲述了一对夫妻因为资金困难，把自己购买的房子出租给了一个号称医生的女人</p><p>结果在小屋租出去没多久，家中就频繁发生怪异事件，女主的老公和女儿也变的神神颠颠</p><p>小屋的邻居也发来了自家小屋里离奇的诵经祭祀仪式</p><p>在某次深夜，老公独自外出，女主跟随老公来到屋顶，发现了老公的怪异行为</p><p>为了搞情况是怎么回事，女主找人调查了租客，结果发现身份信息是伪造的</p><p>女租客到底是谁，有什么目的，老公和女儿又是为何变得怪异？</p><p>随着一场献祭仪式的逐步逼近，真相也慢慢的浮出水面…</p><p>影片采取了“螳螂捕蝉，黄雀在后”的套娃三段式剧情</p><p>为大家分别讲述了女租客，老公的过去以及女主一家的故事</p><p>电影总体表现中规中矩，男女演员都挺好看</p><p>虽然没有太多惊艳，但一些镜头还是吓到了我！</p><p>喜欢恐怖片的可以一看，有心脏病或者对此类型不感冒的千万别看！</p><p><strong>祭屋出租：<a href="https://movie.douban.com/subject/36244313/">豆瓣电影</a></strong></p><p><strong>在线：<a href="https://www.1080zyk5.com/?m=vod-detail-id-43735.html">https://www.1080zyk5.com/?m=vod-detail-id-43735.html</a></strong></p><p><strong>阿里云盘：<a href="https://www.aliyundrive.com/s/cXyy2EHbPfu">https://www.aliyundrive.com/s/cXyy2EHbPfu</a></strong></p><p><strong>百家姓：</strong></p><pre><code class="hljs">王李冯吴沈卫周冯赵陈冯李陈王周褚周沈李赵杨陈韩沈沈王蒋钱李陈韩蒋杨杨李卫孙孙蒋冯杨钱褚卫褚赵李赵韩周郑赵赵韩蒋卫李褚郑钱冯李冯陈卫李韩吴钱赵孙卫沈钱周褚赵孙杨王</code></pre><p><img src="https://image.baidu.com/search/down?url=https://tvax4.sinaimg.cn/large/006BNqYCly1hfyirkjzbvj31kw11y779.jpg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;《祭屋出租》是泰国导演“索分·沙达菲斯”导演的2023年最新恐怖电影&lt;/p&gt;
+&lt;p&gt;这位导演曾经拍过《鬼影》《厉鬼将映》《死神的十字路口》等多部经典恐怖电影&lt;/p&gt;
+&lt;p&gt;《祭屋出租》讲述了一对夫妻因为资金困难，把自己购买的房子出租给了一个号称医生的女人&lt;/p&gt;
+&lt;p&gt;结果</summary>
+      
+    
+    
+    
+    <category term="影视" scheme="https://zhoshusheng.github.io/categories/%E5%BD%B1%E8%A7%86/"/>
+    
+    
+    <category term="影视" scheme="https://zhoshusheng.github.io/tags/%E5%BD%B1%E8%A7%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DC宇宙最新大片《闪电侠》上线流媒体更新4K版本下载</title>
+    <link href="https://zhoshusheng.github.io/2023/07/19/%E6%9B%B4%E6%96%B04K%E7%89%88%E6%9C%AC%E4%B8%8B%E8%BD%BD/"/>
+    <id>https://zhoshusheng.github.io/2023/07/19/%E6%9B%B4%E6%96%B04K%E7%89%88%E6%9C%AC%E4%B8%8B%E8%BD%BD/</id>
+    <published>2023-07-19T15:02:57.000Z</published>
+    <updated>2023-08-28T07:37:13.665Z</updated>
+    
+    <content type="html"><![CDATA[<p>DC最新科幻大片《闪电侠》今日上线流媒体，高清版视频已出</p><p>因为早期有过枪版影视，所以网络字幕也是比较齐全！</p><p>《闪电侠》目前豆瓣7.9分，同类影片中分数算是比较高的</p><p>从部分影评来看，相比现在的院线版，观众更希望看到更多细节的导演剪辑版</p><p>目前来看，暂无可能，目前视频为1080P，有更清晰了，网盘会实时更新4k资源！</p><p><strong>闪电侠：</strong><strong><a href="https://movie.douban.com/subject/3011317/">豆瓣电影</a></strong></p><p><strong>阿里云盘：<a href="https://www.aliyundrive.com/s/TWpxYP4V8Wa">https://www.aliyundrive.com/s/TWpxYP4V8Wa</a></strong></p><p><strong>百家姓：（<a href="https://zimuku.org/subs/66136.html">外挂字幕</a>）</strong></p><p><strong>阿里云盘：<a href="https://www.aliyundrive.com/s/TWpxYP4V8Wa">https://www.aliyundrive.com/s/TWpxYP4V8Wa</a></strong></p><p><strong>百家姓：（<a href="https://zimuku.org/subs/66136.html">外挂字幕</a>）</strong></p><p><strong>暗号：</strong></p><pre><code class="hljs">钱李冯卫蒋吴李孙王沈钱郑孙冯郑王王冯周郑周陈卫杨陈杨褚冯孙周周韩王郑陈杨韩吴韩钱冯杨孙蒋冯冯蒋蒋杨王李杨褚韩孙陈蒋冯杨褚沈韩王杨沈杨郑周郑吴王郑周郑褚蒋钱周冯褚</code></pre><p><img src="https://image.baidu.com/search/down?url=https://tvax3.sinaimg.cn/large/006BNqYCly1hfzsm91kusj32l11e0ty5.jpg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;DC最新科幻大片《闪电侠》今日上线流媒体，高清版视频已出&lt;/p&gt;
+&lt;p&gt;因为早期有过枪版影视，所以网络字幕也是比较齐全！&lt;/p&gt;
+&lt;p&gt;《闪电侠》目前豆瓣7.9分，同类影片中分数算是比较高的&lt;/p&gt;
+&lt;p&gt;从部分影评来看，相比现在的院线版，观众更希望看到更多细节的导演剪辑版</summary>
+      
+    
+    
+    
+    <category term="影视" scheme="https://zhoshusheng.github.io/categories/%E5%BD%B1%E8%A7%86/"/>
+    
+    
+    <category term="影视" scheme="https://zhoshusheng.github.io/tags/%E5%BD%B1%E8%A7%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>豆瓣2022年度电影榜单：附资源下载</title>
+    <link href="https://zhoshusheng.github.io/2022/12/25/%E8%B1%86%E7%93%A32022%E5%B9%B4%E5%BA%A6%E7%94%B5%E5%BD%B1%E6%A6%9C%E5%8D%95%EF%BC%9A%E9%99%84%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD/"/>
+    <id>https://zhoshusheng.github.io/2022/12/25/%E8%B1%86%E7%93%A32022%E5%B9%B4%E5%BA%A6%E7%94%B5%E5%BD%B1%E6%A6%9C%E5%8D%95%EF%BC%9A%E9%99%84%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD/</id>
+    <published>2022-12-25T13:02:32.000Z</published>
+    <updated>2023-08-28T07:37:13.665Z</updated>
+    
+    <content type="html"><![CDATA[<p>2022年，因为种种原因，依旧是中国电影惨淡的一年</p><p>今年的豆瓣电影年度榜单貌似也没了赞助，在官方也是低调上线，拉了一眼榜单，简直没眼看</p><p>2022最好的国产电影《隐入尘烟》也在榜单之中隐入尘烟，榜单已经名存实亡</p><p>当然，吐槽归吐槽，值得一看的电影还是有的，华语最佳的《爱情神话》《一场很（没）必要的</p><p>春晚》挺不错</p><p>外语最佳的《西线无战事》《青春变形记》《阿凡达水之道》冷门佳片里的《万湖会议》</p><p>韩国的《分手的决心》《犯罪都市2》等等，都还不错！</p><p>下面是部分榜单的电影收录，及时保存！</p><p><strong>阿里云盘：<a href="https://www.aliyundrive.com/s/euLgPudzss8">https://www.aliyundrive.com/s/euLgPudzss8</a></strong></p><blockquote><p>豆瓣2022年度电影榜单<a href="https://movie.douban.com/annual/2022![8b2ff6907e0cc59d](./images/8b2ff6907e0cc59d.webp)">https://movie.douban.com/annual/2022![8b2ff6907e0cc59d](./images/8b2ff6907e0cc59d.webp)</a></p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;2022年，因为种种原因，依旧是中国电影惨淡的一年&lt;/p&gt;
+&lt;p&gt;今年的豆瓣电影年度榜单貌似也没了赞助，在官方也是低调上线，拉了一眼榜单，简直没眼看&lt;/p&gt;
+&lt;p&gt;2022最好的国产电影《隐入尘烟》也在榜单之中隐入尘烟，榜单已经名存实亡&lt;/p&gt;
+&lt;p&gt;当然，吐槽归吐槽，值得</summary>
+      
+    
+    
+    
+    <category term="影视" scheme="https://zhoshusheng.github.io/categories/%E5%BD%B1%E8%A7%86/"/>
+    
+    
+    <category term="影视" scheme="https://zhoshusheng.github.io/tags/%E5%BD%B1%E8%A7%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>神秘的电子书下载网站</title>
+    <link href="https://zhoshusheng.github.io/2022/03/27/%E7%A5%9E%E7%A7%98%E7%9A%84%E7%94%B5%E5%AD%90%E4%B9%A6%E4%B8%8B%E8%BD%BD%E7%BD%91%E7%AB%99/"/>
+    <id>https://zhoshusheng.github.io/2022/03/27/%E7%A5%9E%E7%A7%98%E7%9A%84%E7%94%B5%E5%AD%90%E4%B9%A6%E4%B8%8B%E8%BD%BD%E7%BD%91%E7%AB%99/</id>
+    <published>2022-03-27T13:24:03.000Z</published>
+    <updated>2023-08-28T07:37:13.665Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://tva1.sinaimg.cn/large/007HcsmDgy1h0nl6jw0ctj30u40cawfy.jpg"><br>这个电子书网站藏得有点深。</p><p><strong>未登录的情况下，可搜索，不可下载。</strong></p><p>然后呢，注册渠道被官方给屏蔽了。</p><p>打开注册链接：<a href="https://elib.cc/register">elib.cc/register</a><br><img src="https://tva4.sinaimg.cn/large/b6559090gy1h0nc2m2x3vj20xo04j74i.jpg"></p><p>注册方法：</p><p>请使用注册邮箱发送主题为 <strong>signup</strong> 的邮件到 <a href="mailto:&#97;&#x75;&#x74;&#104;&#64;&#101;&#x6c;&#105;&#x62;&#x2e;&#x63;&#99;">&#97;&#x75;&#x74;&#104;&#64;&#101;&#x6c;&#105;&#x62;&#x2e;&#x63;&#99;</a> 。</p><p>邮件发送成功之后，会收到对方发过来的登陆账号和密码。</p><p>登陆成功之后就可以看到下载链接了。</p><p><img src="https://tva1.sinaimg.cn/large/b6559090gy1h0nc71xqo3j20xz0j2q7w.jpg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/007HcsmDgy1h0nl6jw0ctj30u40cawfy.jpg&quot;&gt;&lt;br&gt;这个电子书网站藏得有点深。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;未登录的情况下，可搜索，不可下载。&lt;/strong&gt;</summary>
+      
+    
+    
+    
+    <category term="分享" scheme="https://zhoshusheng.github.io/categories/%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="分享" scheme="https://zhoshusheng.github.io/tags/%E5%88%86%E4%BA%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>国外福利抖音COUB，附下载工具GETCOUB</title>
+    <link href="https://zhoshusheng.github.io/2022/03/27/%E5%9B%BD%E5%A4%96%E7%A6%8F%E5%88%A9%E6%8A%96%E9%9F%B3COUB%EF%BC%8C%E9%99%84%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7GETCOUB/"/>
+    <id>https://zhoshusheng.github.io/2022/03/27/%E5%9B%BD%E5%A4%96%E7%A6%8F%E5%88%A9%E6%8A%96%E9%9F%B3COUB%EF%BC%8C%E9%99%84%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7GETCOUB/</id>
+    <published>2022-03-27T13:19:54.000Z</published>
+    <updated>2023-08-28T07:37:13.665Z</updated>
+    
+    <content type="html"><![CDATA[<p>进入COUB网站，网站上方明显的写着公告：</p><p>COUB将于2022.4.1关闭，别忘记下载你的视频。</p><p>虽然4.1是愚人节，但提前放出的消息应该不是假的。<br>coub是一个视频共享网站，包括iOS和Android应用程序。<br>通俗点就是和国内的抖音、快手、火山等短视频一样，不过因为是国外的网站，内容上限制比较松，自带NSFW模式哦，<br>NSFW 全称Not Suitable For Work，中文译不适合工作时间观看，言外之意，就是一些妹纸图片、尺度比较大的内容。</p><p><a href="https://coub.com/tags/nsfw">COUB官网NSFW区</a><br>COUB视频无法下载保存到本地电脑，所有就出了个在线工具GETCOUB。<br>使用非常简单，只要将视频地址，如 <a href="https://coub.com/view/1e4sf7%EF%BC%8C%E7%B2%98%E8%B4%B4%E5%88%B0GETCOUB.RU%E7%9A%84%E6%96%87%E6%9C%AC%E6%A1%86%E4%B8%AD%EF%BC%8C%E7%82%B9%E5%87%BBGIVE%E5%B0%B1%E5%8F%AF%E4%BB%A5%E8%A7%A3%E6%9E%90%E5%BE%97%E5%88%B0%E4%B8%8B%E8%BD%BD%EF%BC%8C%E6%A0%BC%E5%BC%8F%E4%B8%BAMP4%E6%88%96%E5%A3%B0%E9%9F%B3MP3%E3%80%82">https://coub.com/view/1e4sf7，粘贴到GETCOUB.RU的文本框中，点击GIVE就可以解析得到下载，格式为MP4或声音MP3。</a></p><p>在线下载网址：<a href="http://getcoub.ru/">getcoub.ru</a>（同上）<br><img src="https://tva1.sinaimg.cn/large/005BYqpggy1g4dn18rl1kj30n50bi3yy.jpg"></p><p><img src="https://tva1.sinaimg.cn/large/005BYqpggy1g4dnh70ut8j30p00e2x6c.jpg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;进入COUB网站，网站上方明显的写着公告：&lt;/p&gt;
+&lt;p&gt;COUB将于2022.4.1关闭，别忘记下载你的视频。&lt;/p&gt;
+&lt;p&gt;虽然4.1是愚人节，但提前放出的消息应该不是假的。&lt;br&gt;coub是一个视频共享网站，包括iOS和Android应用程序。&lt;br&gt;通俗点就是和国内</summary>
+      
+    
+    
+    
+    <category term="分享" scheme="https://zhoshusheng.github.io/categories/%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="分享" scheme="https://zhoshusheng.github.io/tags/%E5%88%86%E4%BA%AB/"/>
+    
+  </entry>
+  
+</feed>
